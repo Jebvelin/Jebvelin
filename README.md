@@ -6,7 +6,7 @@ Student
 
 I'm learning about javascript and API for 3 months. Right now i'm doing internship for 6 months. I'm looking for work about Software Developer, Application Developer.
 
-* 🌍  I'm based in Thailand Bangkok
+* 🌍  I'm based in Thailand, Bangkok
 * ✉️  You can contact me at [mjjrmind75@gmail.com](mailto:mjjrmind75@gmail.com)
 * 🧠  I'm currently learning javascript
 
