@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I'm learning about javascript and API for 3 months. Right now i'm doing internship for 6 months. I'm looking for work about Software Developer, Application Developer.
+I'm learning about javascript and API for 3 months. Right now i'm doing internship about PLC Controller for 6 months. I'm looking for work about Software Developer, Application Developer.
 
 * 🌍  I'm based in Thailand Bangkok
 * ✉️  You can contact me at [mjjrmind75@gmail.com](mailto:mjjrmind75@gmail.com)
