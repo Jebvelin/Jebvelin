@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sutthirak Yosmaw
 =========================================================================================================================================
 
-Student
+Student - Chandrakasem Rajabhat University
 -------
 
 I'm learning about javascript and API for 3 months. Right now i'm doing internship for 6 months. I'm looking for work about Software Developer, Application Developer.
